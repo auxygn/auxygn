@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @auxygn
-- 👀 I’m interested in game development
-- 🌱 I’m currently learning how to use github and read others' code
-- 💞️ I’m looking to collaborate on something beginner-friendly since I'm so new to this
+- I am interested in full-stack development
 - 📫 You can email me at ausnti@gmail.com
 
 <!---
