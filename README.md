@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @auxygn
-- I am interested in full-stack development
 - 📫 You can email me at ausnti@gmail.com
 
 <!---
